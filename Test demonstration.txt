@@ -1,0 +1,10 @@
+{
+    "banben": 1,
+    "QQ": 3077173007,
+    "guochan": "https://www.bybcz3pycn7znxlj9vmt65ac.com:52789/index.php/vod/type/id/1/page/",
+    "wuma": "https://www.bybcz3pycn7znxlj9vmt65ac.com:52789/index.php/vod/type/id/2/page/",
+    "youma": "https://www.bybcz3pycn7znxlj9vmt65ac.com:52789/index.php/vod/type/id/3/page/",
+    "oumei": "https://www.bybcz3pycn7znxlj9vmt65ac.com:52789/index.php/vod/type/id/4/page/",
+    "dongman": "https://www.bybcz3pycn7znxlj9vmt65ac.com:52789/index.php/vod/type/id/5/page/",
+    "qingse": "https://www.bybcz3pycn7znxlj9vmt65ac.com:52789/index.php/vod/type/id/6/page/"
+}
